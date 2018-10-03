@@ -1,0 +1,10 @@
+A:\Entel\OnTour.Store\bin\Debug\Comunicaciones.Clases.dll
+A:\Entel\OnTour.Store\bin\Debug\Comunicaciones.Interfaz.dll
+A:\Entel\OnTour.Store\bin\Debug\Comunicaciones.Clases.pdb
+A:\Entel\OnTour.Store\bin\Debug\Comunicaciones.Interfaz.pdb
+A:\Entel\OnTour.Store\obj\Debug\Comunicaciones.DAL.csprojResolveAssemblyReference.cache
+A:\Entel\OnTour.Store\obj\Debug\Comunicaciones.DAL.csproj.CoreCompileInputs.cache
+A:\Entel\OnTour.Store\bin\Debug\Comunicaciones.DAL.dll
+A:\Entel\OnTour.Store\bin\Debug\Comunicaciones.DAL.pdb
+A:\Entel\OnTour.Store\obj\Debug\Comunicaciones.DAL.dll
+A:\Entel\OnTour.Store\obj\Debug\Comunicaciones.DAL.pdb

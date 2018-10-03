@@ -1,0 +1,12 @@
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.Negocio.dll
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.Negocio.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.Clases.dll
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.Interfaz.dll
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.Clases.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.Interfaz.pdb
+A:\Entel\OnTour.Negocio\obj\Debug\Comunicaciones.Negocio.csprojResolveAssemblyReference.cache
+A:\Entel\OnTour.Negocio\obj\Debug\Comunicaciones.Negocio.csproj.CoreCompileInputs.cache
+A:\Entel\OnTour.Negocio\obj\Debug\Comunicaciones.Negocio.dll
+A:\Entel\OnTour.Negocio\obj\Debug\Comunicaciones.Negocio.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.DAL.dll
+A:\Entel\OnTour.Negocio\bin\Debug\Comunicaciones.DAL.pdb

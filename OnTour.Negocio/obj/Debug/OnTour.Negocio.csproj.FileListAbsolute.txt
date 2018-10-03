@@ -1,0 +1,24 @@
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.Negocio.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.Negocio.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.Clases.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.DAL.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.Interfaz.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.Clases.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.DAL.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\bin\Debug\OnTour.Interfaz.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\obj\Debug\OnTour.Negocio.csprojResolveAssemblyReference.cache
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\obj\Debug\OnTour.Negocio.csproj.CoreCompileInputs.cache
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\obj\Debug\OnTour.Negocio.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Negocio\obj\Debug\OnTour.Negocio.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.Negocio.dll
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.Negocio.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.Clases.dll
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.DAL.dll
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.Interfaz.dll
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.Clases.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.DAL.pdb
+A:\Entel\OnTour.Negocio\bin\Debug\OnTour.Interfaz.pdb
+A:\Entel\OnTour.Negocio\obj\Debug\OnTour.Negocio.csprojResolveAssemblyReference.cache
+A:\Entel\OnTour.Negocio\obj\Debug\OnTour.Negocio.csproj.CoreCompileInputs.cache
+A:\Entel\OnTour.Negocio\obj\Debug\OnTour.Negocio.dll
+A:\Entel\OnTour.Negocio\obj\Debug\OnTour.Negocio.pdb

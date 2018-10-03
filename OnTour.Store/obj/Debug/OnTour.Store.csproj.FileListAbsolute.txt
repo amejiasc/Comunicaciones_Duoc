@@ -1,0 +1,10 @@
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Store.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Store.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Clases.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Interfaz.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Clases.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Interfaz.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.Store.csprojResolveAssemblyReference.cache
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.Store.csproj.CoreCompileInputs.cache
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.Store.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.Store.pdb

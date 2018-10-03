@@ -1,0 +1,20 @@
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.DAL.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.DAL.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Clases.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Interfaz.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Clases.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\bin\Debug\OnTour.Interfaz.pdb
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.DAL.csprojResolveAssemblyReference.cache
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.DAL.csproj.CoreCompileInputs.cache
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.DAL.dll
+D:\Estudios\OnTour\Solucion OnTour\OnTour.Store\obj\Debug\OnTour.DAL.pdb
+A:\Entel\OnTour.Store\bin\Debug\OnTour.DAL.dll
+A:\Entel\OnTour.Store\bin\Debug\OnTour.DAL.pdb
+A:\Entel\OnTour.Store\bin\Debug\OnTour.Clases.dll
+A:\Entel\OnTour.Store\bin\Debug\OnTour.Interfaz.dll
+A:\Entel\OnTour.Store\bin\Debug\OnTour.Clases.pdb
+A:\Entel\OnTour.Store\bin\Debug\OnTour.Interfaz.pdb
+A:\Entel\OnTour.Store\obj\Debug\OnTour.DAL.csprojResolveAssemblyReference.cache
+A:\Entel\OnTour.Store\obj\Debug\OnTour.DAL.csproj.CoreCompileInputs.cache
+A:\Entel\OnTour.Store\obj\Debug\OnTour.DAL.dll
+A:\Entel\OnTour.Store\obj\Debug\OnTour.DAL.pdb
